@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
   s.name         = "IMXLauncher"
   s.version      = "1.0.0"
-  s.summary      = "a set of common categories for Object-C class"
+  s.summary      = "App Launcher Dispathcer"
   s.license      = { :type => "MIT", :file => "LICENSE" }
   s.homepage     = "https://github.com/PanZhow/IMXLauncher.git"
   s.author             = { "zhoupanpan" => "2331838272@qq.com" }
